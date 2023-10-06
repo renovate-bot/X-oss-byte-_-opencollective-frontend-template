@@ -39,7 +39,7 @@
     "babel-plugin-react-remove-properties": "^0.3.0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "deepmerge": "4.2.2",
-    "graphql": "16.6.0",
+    "graphql": "16.8.1",
     "lodash": "4.17.21",
     "next": "12.3.1",
     "next-auth": "4.14.0",
